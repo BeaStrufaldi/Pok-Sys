@@ -1,0 +1,12 @@
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.deps.json
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.dll
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\bin\Debug\net6.0\Pokemon.Services.pdb
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.csproj.AssemblyReference.cache
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.AssemblyInfoInputs.cache
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.AssemblyInfo.cs
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.dll
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\refint\Pokemon.Services.dll
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\Pokemon.Services.pdb
+C:\Users\beatriz.strufaldi_bi\Documents\Eu\Projetos\Pokemon\Pokemon.Services\obj\Debug\net6.0\ref\Pokemon.Services.dll

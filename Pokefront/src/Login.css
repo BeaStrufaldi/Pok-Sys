@@ -1,0 +1,48 @@
+body{
+    background-color: darkgray;
+}
+.container {
+    width: 35%;    
+    background-color: #b52929 ;
+    padding-bottom: 2%;
+    padding-top: 5%;
+    margin-top: 5%;
+    border-radius: 5px;
+    box-shadow: 0 0 20px black;
+}
+
+.form-control{
+    width: 80%;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#Entrar{
+    border-radius: 20px;
+    background-color: #ff9900;
+    color: #663d00;
+    margin-left: 90px;
+    width: 150px;
+    margin-top: 10%;
+}
+
+.senha{
+    font-size: 11px;
+    margin-left: 60%;
+}
+
+form{
+    padding-left: 50px;
+}
+
+#cadastrar{
+    border-radius: 20px;
+    margin-left: 90px;
+    width: 150px;
+    color: rgb(9, 65, 9);
+}

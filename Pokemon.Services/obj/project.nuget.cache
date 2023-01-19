@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFYpbpGI8ZhjUDy0gyfpeJ4Q1zed48tjoDTzCyH/D4gEY5MTfORgMXIYIeHQc03HDVhdeX7mFbgnfToU1JgV4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.bdc.internal/BDCNuget/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

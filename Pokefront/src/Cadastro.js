@@ -30,6 +30,9 @@ return (
             <div className="mb-3">                
                 <input type="date" className="form-control" onChange={handleBirthdateChange} id="Birthdate"></input>
             </div>
+            <div className="mb-3">                
+                <input type="tel" placeholder='Telefone' className="form-control" onChange={handlePhoneChange} id="Phone"></input>
+            </div>
             <div className='senha'>
                 <a href="#" className="link-light">Esqueci a Senha</a>
             </div>

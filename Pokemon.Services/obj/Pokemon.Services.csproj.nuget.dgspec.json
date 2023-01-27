@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj": {}
+    "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj": {
+    "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj",
+        "projectUniqueName": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj",
         "projectName": "Pokemon.Services",
-        "projectPath": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj",
+        "projectPath": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Pokemon\\Pokemon.Services\\Pokemon.Services.csproj",
         "packagesPath": "C:\\Users\\beatriz.strufaldi_bi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Projetos\\Pokemon\\Pokemon.Services\\obj\\",
+        "outputPath": "C:\\Users\\beatriz.strufaldi_bi\\Documents\\Eu\\Pokemon\\Pokemon.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

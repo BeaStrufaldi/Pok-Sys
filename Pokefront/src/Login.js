@@ -52,18 +52,20 @@ export default function Login() {
 
   return (
     <div className="container">
-        <img src="https://imgur.com/S8Ezlmo.png"/>
+        <div className='logo'>
+            <img src="https://imgur.com/S8Ezlmo.png"/>
+        </div>        
         <form>
             <h2>Bem vindo ao PokéSys</h2>
             <div className="mb-3">                    
-                <input type="email" placeholder='Usuário' className="form-control" onChange={handleLoginChange} id="exampleInputEmail1" aria-describedby="emailHelp"></input>
+                <input type="email" placeholder='Usuário' className="form-control" onChange={handleLoginChange} id="email" aria-describedby="emailHelp"></input>
         
             </div>
             <div className="mb-3">                
-                <input type="password" placeholder='Senha' className="form-control" onChange={handlePasswordChange} id="exampleInputPassword1"></input>
+                <input type="password" placeholder='Senha' className="form-control" onChange={handlePasswordChange} id="password"></input>
             </div>
             <div className='senha'>
-                <a href="#" className="link-light">Esqueci a Senha</a>
+                <a href="Cadastro.js" className="link-light">Esqueci a Senha</a>
             </div>
             <button id="Entrar" type="submit" className="btn btn-warning" onClick={handleClick} >Entrar</button>
             <hr></hr>
